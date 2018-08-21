@@ -1,0 +1,26 @@
+.hiccas-footer{
+	width: 100%;
+	box-sizing: border-box;
+	height: 15vh;
+	background-color: #e79200;
+}
+
+.footer-inner{
+	width: 100%;
+}
+
+.footer-logo{
+	position: relative;
+	display: block;
+	top: 30px;
+	width: 60px;
+	height:60px;
+}
+
+.footer-logo__text{
+	position: relative;
+	display: block;
+	top: 20px;
+	font-size: 20px;
+	font-family: 
+}
